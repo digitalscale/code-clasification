@@ -1,6 +1,6 @@
 # code-clasification
 
-This code can classify following souce code:
+This code can classify following sourcecodes:
 - Java
 - Python
 - C++
